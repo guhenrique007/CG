@@ -1,1 +1,3 @@
 # CG
+ 
+ Exercícios em OpenGL
